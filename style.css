@@ -2,3 +2,11 @@
   background-color: #f5f5f5;
   border: none;
 }
+
+.ui.dropdown.fitted.item{
+  margin-top: 3em;
+}
+
+.ui.fluid.image{
+  margin-top: 2em;
+}
