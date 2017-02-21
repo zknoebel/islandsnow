@@ -10,3 +10,12 @@
 .ui.fluid.image{
   margin-top: 2em;
 }
+
+.IS-darkGrey-background{
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
+
+
